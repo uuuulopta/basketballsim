@@ -13,7 +13,7 @@ Gde je:
 
 $FP = L(\text{Broj pobeda protiv protivnika}- \text{Broj poraza protiv protvnika}) \quad[0,0.25]$
 
-$FP = L(\text{Ukupan broj pobeda} - \text{Ukupan broj poraza}) \quad[0,0.25]$
+$FT = L(\text{Ukupan broj pobeda} - \text{Ukupan broj poraza}) \quad[0,0.25]$
 
 $FR=\frac{(\text{FibaRang}-\text{ProtivnikovFibaRang})}{100}\quad[0,0.2]$
 
