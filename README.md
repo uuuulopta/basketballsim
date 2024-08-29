@@ -17,7 +17,7 @@ $FP = L(\text{Ukupan broj pobeda} - \text{Ukupan broj poraza}) \quad[0,0.25]$
 
 $FR=\frac{(\text{FibaRang}-\text{ProtivnikovFibaRang})}{100}\quad[0,0.2]$
 
-L - Je logistička funkcija. To je funkcija koja se sa povećanjem x, približava nekoj vrednosti (u ovom slučaju y)
+L - Je logistička funkcija. To je funkcija koja se sa povećanjem x, približava nekoj vrednosti
 
 $$L(x) = \frac{l}{1 + e^{-k(x-x_0)}}$$ 
 
